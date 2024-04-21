@@ -36,6 +36,10 @@
 
 [Microsoft Office For Mac 16.67 November 2022 update for Office requires a minimum of macOS Big Sur - official docs! Click Here](https://go.microsoft.com/fwlink/?linkid=2015804)
 
+**2024 Preview**
+
+[Microsoft Office 2024 LTSC (Preview) Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2024_Preview_Serializer.pkg)
+
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
 
@@ -77,6 +81,8 @@
 
 **Microsoft Office 2016, 2019 & 2021 Activator / License_Serializer**
 
+[Microsoft Office 2024 LTSC (Preview) Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2024_Preview_Serializer.pkg)
+
 [Microsoft Office 2021 LTSC Volume License Serializer (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)
 
 [Microsoft Office 2021 LTSC Volume License Serializer MSDN ISO (Monterey With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/MacOS Sonoma Native Support)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SW_DVD5_Office_Mac_Serializer_2021_MLF_X22-74226.ISO)
@@ -87,13 +93,17 @@
 
 [Microsoft Office 2019 Volume License Serializer (Maximum Version 16.68 without 365)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2019_VL_Serializer.pkg)
 
-[Microsoft_Office_2016_Volume License Serializer_2.0](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2016_VL_Serializer_2.0.pkg)
+[Microsoft Office 2019 Volume License Serializer (MSDN ISO) (Maximum Version 16.68 without 365)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)
+
+[Microsoft_Office_2016_Volume License Serializer_v2](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2016_VL_Serializer_2.0.pkg)
+
+[Microsoft_Office_2016_Volume License Serializer_v2 (MSDN ISO)](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)
 
 **Microsoft Office 2011 Activator**
 
 [Microsoft_Office_2011_Volume_License_Serializer](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/vlmsommxi.dmg)
 
-**Or**
+**Or Keys**
 
 **2WBVT-PTKRB-2RH2B-X2DYY-QBXP4**
 
@@ -164,6 +174,13 @@ defaults write com.microsoft.Powerpoint UseOnlineContent -integer 0
 
 [License Removal Tool 2.7](https://go.microsoft.com/fwlink/?linkid=849815)
 
+---
 
+## **Anda Memang Luar Biasa | Harry DS Alsyundawy | Kaum Rebahan Garis Keras & Militan**
 
-### **Anda Memang Luar Biasa | Harry DS Alsyundawy | Kaum Rebahan Garis Keras & Militan**
+---
+
+## GitHub Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/d1ae05f2c9410d56827e4e743f814e6284b1eebc.svg "Repobeats analytics image")
+
